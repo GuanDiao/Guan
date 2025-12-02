@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Zen Particles 3D",
+  "description": "Real-time interactive 3D particle system controlled by hand gestures via webcam.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
